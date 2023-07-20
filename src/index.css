@@ -82,7 +82,7 @@ a {
   font-weight: 600;
 }
 
-.button{
+.button {
   font-weight: 500;
   padding: 0.6rem 1.4rem;
   color: white;
@@ -93,7 +93,7 @@ a {
   transition: all 300ms ease-in;
 }
 
-.button:hover{
+.button:hover {
   cursor: pointer;
   transform: scale(1.1);
 }
