@@ -3,6 +3,7 @@ import Hero from "./components/Hero/Hero";
 import './App.css';
 import Companies from "./components/Companies/Companies";
 import Caraousel from "./components/Caraousel/Caraousel";
+import Values from "./components/Values/Values";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       </div>
       <Companies/>
       <Caraousel/>
+      <Values/>
     </div>
   );
 };
