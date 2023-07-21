@@ -7,7 +7,7 @@ import { sliderSettings } from '../../utils/common';
 
 const Caraousel = () => {
   return (
-    <section className='r-wrapper'>
+    <section className='r-wrapper' id="Caraousel">
         <div className='paddings innerWidth r-container'>
             <div className='r-head flexColStart'>
                 <span className='orangeText '>Best Choices</span>
