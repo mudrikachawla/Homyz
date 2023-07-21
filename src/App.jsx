@@ -4,6 +4,7 @@ import './App.css';
 import Companies from "./components/Companies/Companies";
 import Caraousel from "./components/Caraousel/Caraousel";
 import Values from "./components/Values/Values";
+import Contact from "./components/Contact/Contact";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Companies/>
       <Caraousel/>
       <Values/>
+      <Contact/>
     </div>
   );
 };
