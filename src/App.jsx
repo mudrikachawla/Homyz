@@ -5,6 +5,7 @@ import Companies from "./components/Companies/Companies";
 import Caraousel from "./components/Caraousel/Caraousel";
 import Values from "./components/Values/Values";
 import Contact from "./components/Contact/Contact";
+import GetStarted from "./components/GetStarted/GetStarted";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Caraousel/>
       <Values/>
       <Contact/>
+      <GetStarted/>
     </div>
   );
 };
