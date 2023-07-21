@@ -6,6 +6,7 @@ import Caraousel from "./components/Caraousel/Caraousel";
 import Values from "./components/Values/Values";
 import Contact from "./components/Contact/Contact";
 import GetStarted from "./components/GetStarted/GetStarted";
+import Footer from "./components/Footer/Footer";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <Values/>
       <Contact/>
       <GetStarted/>
+      <Footer/>
     </div>
   );
 };
